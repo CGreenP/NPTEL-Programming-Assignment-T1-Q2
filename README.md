@@ -18,3 +18,43 @@ You have to output the number of odd numbers in the sequence of numbers you get 
 
 # Explanation of Sample Output 1
 The sequence of numbers starting from 3 is 3, 10, 5, 16, 8, 4, 2, 1. In this sequence, 3, 5 and 1 are odd.
+
+# Sample input 2
+```sh
+11
+```
+
+# Sample output 2
+```sh
+5
+```
+
+# Sample input 3
+```sh
+5
+```
+
+# Sample output 3
+```sh
+2
+```
+
+# Sample input 4
+```sh
+1024
+```
+
+# Sample output 4
+```sh
+1
+```
+
+# Sample input 5
+```sh
+7
+```
+
+# Sample output 5
+```sh
+6
+```
